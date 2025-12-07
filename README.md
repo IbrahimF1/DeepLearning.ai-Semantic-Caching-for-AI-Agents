@@ -9,4 +9,6 @@ The course, instructed by **Tyler Hutcherson** (Applied AI Engineering Lead) and
 - Applied techniques like **cross-encoders**, **LLM validation**, and **fuzzy matching** to improve cache accuracy.  
 - Implemented and integrated a **semantic cache** to minimize redundant API calls and increase response speed as the system warmed up.
 
+<img width="600" alt="semantic cache diagram" src="https://github.com/user-attachments/assets/7bf9cb30-43ee-45e3-8cc8-b678483150d8" />
+
 **Link to course:** https://www.deeplearning.ai/short-courses/semantic-caching-for-ai-agents/
